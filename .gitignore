@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+wandb/
+*.pt
+scripts/*/*.sh
+*.out
+.ipynb_checkpoints
+hfcache/
+.DS_Store
